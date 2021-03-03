@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="git_int_table" max_length="40" name="u_git_int_table" sizeclass="0" type="collection">
+        <element label="id" max_length="40" name="u_id" type="integer"/>
+        <element label="name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>
